@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27205295622",
+    "project_id": "gloopy-ee1d9",
+    "storage_bucket": "gloopy-ee1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27205295622:android:ca009363ff145ec44dad87",
+        "android_client_info": {
+          "package_name": "com.Gloopy.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27205295622-b6d8vnvrrlb4npl8gqb68k6ql97bf495.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZoBCCe62RWOw0ZaY7IHEynhj8ooOpfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27205295622-b6d8vnvrrlb4npl8gqb68k6ql97bf495.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
